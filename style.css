@@ -15,21 +15,21 @@ h1{
     padding: 10px;
     border-top: 0px;
     border-style:groove;
-    background-image: url(bg2.jpg);
+    background-image: url(https://mrwallpaper.com/images/hd/galaxy-pastel-background-85blmve9ji2fj2a9.jpg);
 }
 body{
     font-family:sans-serif,Arial, Helvetica;
     margin: 50px;
     padding: 2px;
     background-color:lightgrey;
-    background-image: url(bg1.avif);
+    background-image: url(https://img.freepik.com/free-vector/simple-blue-gradient-background-vector-business_53876-171631.jpg?semt=ais_hybrid);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .fieldset{
     border-radius: 8px;
     padding: 20px;
-    background-image: url(bg3.jpg);
+    background-image: url(https://img.freepik.com/free-photo/abstract-pastel-blue-paint-brushstroke-textured-background_53876-108403.jpg?ga=GA1.1.269422964.1721577573&semt=ais_hybrid);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -100,7 +100,7 @@ button:hover{
     border: 2px solid rgb(183, 149, 247);
     margin: 0 auto;
     color: darkblue;
-    background-image: url(bg1.avif);
+    background-image: url(https://img.freepik.com/free-vector/simple-blue-gradient-background-vector-business_53876-171631.jpg?semt=ais_hybrid);
     background-size:cover;
 }
 #resumeDisplay h2{
